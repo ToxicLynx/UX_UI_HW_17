@@ -132,7 +132,7 @@ body {
   }
   
   .prjctsHeader{
-    position: relative;
+    /* position: relative; */
     left: 28rem;
     width: 115rem;
     bottom: 8rem;
@@ -146,7 +146,7 @@ body {
     display: flex;
     flex-direction: row;
     gap: 2rem;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     width: 76rem;
   }
   
