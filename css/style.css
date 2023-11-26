@@ -178,4 +178,18 @@ body {
   #nav2 {
     margin-top: 18rem;
   }
-    
+  .footer{
+    position: relative;
+    /* display: flex; */
+    justify-content: center;
+  }
+  
+  .backToTop{
+  position: relative;
+  left: 30rem;
+  }
+  
+  .footerInfo{
+  position: relative;
+  left: 83rem;
+  }
